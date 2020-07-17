@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+    color: #40514E;
+    
+}
+h1{
+    margin-top: 100px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+a:hover{
+
+    color: #eaf6f6;
+}
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    border-color: #5e6f64;
+    border-width: 5px;
+    height: 0px;
+    width:10%;
+
+    
+}
+.topcontainer{
+    background-color: #E4f9f5;
+    position: relative;
+    padding-top: 200px;
+    
+}
+
+.middle-container{
+   margin: 100px 0;
+}
+
+.bottom-container{
+    background-color:#66BFBF;
+    height: 100px;
+    padding-top: 30px;
+    margin-top: 50px;
+
+}
+
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top:200px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    left:200px;
+    bottom: 400px;
+}
+.profile{
+    margin-bottom: 50px;
+}
+
+.profile-image{
+    width: 200px;
+
+}
+.contact-me{
+    margin-top: 50px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto  ;
+    line-height:2;
+    text-align: left;
+    
+}
+.skillmain{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.programming-skill{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.software-skill{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.online-payment-system{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.iomt{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.academic-projects{
+   width: 50%;
+    margin: 100px auto 100px auto  ;
+    line-height: 2 ;
+    text-align: left;
+}
+.btn {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11cdd4), color-stop(1, #11cdd4) );
+	background:-moz-linear-gradient( center top, #11cdd4 5%, #11cdd4 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11cdd4', endColorstr='#11cdd4');
+	background-color:#11cdd4;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:155px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #ffffff;
+}.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #092532), color-stop(1, #092532) );
+	background:-moz-linear-gradient( center top, #092532 5%, #092532 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#092532', endColorstr='#092532');
+	background-color:#092532;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+
